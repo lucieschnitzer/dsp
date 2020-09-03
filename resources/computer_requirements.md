@@ -1,3 +1,5 @@
+### Edited by Lucie Schnitzer
+
 # Computer Requirements
 
 [1. Computer Specs](#section-a)  
