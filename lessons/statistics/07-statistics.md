@@ -100,7 +100,11 @@ P(Elvis is idential twin) = 5/11
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Bayesian statistics is primarily dependent on past events. It is used to calculate the probability of something occurring based on what has happened in the past. Meaning, it depends on the prior and likelihood of observed data. This is known as creating a "prior" and once we have this prior, our calculations have the certainty of deductive logic, making it easier to see why certain decisions are made and conclusions drawn. Baysian statistics does leave room for subjective priors to be formed, however, since one can specify the prior assumptions made, people can challenge them as well. 
+
+On the other hand, frequentis statstics do not require a prior and never gives the probability of a hypothesis. Meaning, that results are less likely to vary between different investigators. Frequentis statistics depend on the likelihood for both observed and unobserved data and does not carry the force of deductive logic. The positive aspects of this tyoe of statistics are that it is objective and demands a carreful description of the experiment and methods of analysis beforehand, healping control for experimenter bias. 
+
+Even though there are critiques of either methods, statisticians believe the strongest results come from a combination of utilizing both methods. 
 
 ---
 
